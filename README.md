@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on any projects!
-- 📫 How to reach me Email or Message me directly.
+- 📫 Reach me Email or Message me directly.
 
 <!---
 Krcoded/Krcoded is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
